@@ -9,3 +9,5 @@ On the other hand, MLflow is a Python program for tracking experiments and versi
 In terms of popularity, both tools have broad support from prominent organizations in the data analytics industry. However, the choice between Kubeflow and MLflow depends on the specific needs and resources of the team. Kubeflow is more suitable for teams with more specialized roles and resources to manage the Kubernetes infrastructure, while MLflow is more suitable for data scientists who prioritize ease of use and setup.
 
 It's worth noting that there are also other MLOps platforms available in the market, such as Valohai, which offers Kubeflow-like machine orchestration and MLflow-like experiment tracking without any setup. Valohai is a managed platform that takes care of setting up, maintaining the environment, and ensuring successful onboarding, making it a good option for teams that don't have the resources to manage their own Kubernetes infrastructure and maintain a complex system like Kubeflow.
+
+reference - https://valohai.com/blog/kubeflow-vs-mlflow/
