@@ -33,3 +33,5 @@ When selecting tools for MLOps implementation, consider factors such as:
 Evaluate the offerings from AWS, Azure, and additional tools to determine the best fit for your organization's needs.
 
 Feel free to explore the documentation and resources provided by each service to make an informed decision about your MLOps toolchain.
+
+https://wilsonmar.github.io/mlops/ 
